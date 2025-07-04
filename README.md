@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm DRosarioDev
 
-I am a Computer Science Student at Unibas and passionate about the internet world. My goal is to help as many people as possible with my applications.
+I am a Computer Science Student at UniBas and passionate about the internet world. My goal is to help as many people as possible with my applications.
 
 At the moment my knowledge on Web Applications spans between backend and frontend and includes NodeJS, Angular, Jakarta, PostgreSQL. I aim to improve them day by day!
 
