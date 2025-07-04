@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm DRosarioDev,
+## Hi there! 👋 I'm DRosarioDev
 
 I am a Computer Science Student at Unibas and passionate about the internet world. My goal is to help as many people as possible with my applications.
 
