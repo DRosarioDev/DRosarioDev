@@ -13,7 +13,7 @@ At the moment my knowledge on Web Applications spans between backend and fronten
 - 🌱 I’m currently learning **Advanced Circuits**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **![LinkedIn](https://www.linkedin.com/in/domenico-rosario-alberti-44a970225/)**
+  **[LinkedIn](https://www.linkedin.com/in/domenico-rosario-alberti-44a970225/)**
 
 ![DRosarioDev's github stats](https://github-readme-stats.vercel.app/api?username=DRosarioDev&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRosarioDev&layout=compact&theme=dark&hide_border=true)
