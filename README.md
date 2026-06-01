@@ -40,7 +40,7 @@ A backend showcase for an e-commerce platform focused on videogames. Demonstrate
 Have an idea, a project, or just want to connect?
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/domenico-rosario-alberti-44a970225/">
+  <a href="https://www.linkedin.com/in/domenico-rosario-alberti/">
     <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
